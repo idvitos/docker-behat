@@ -32,6 +32,7 @@
         }
     },
 
-  
-  "bin": ["bin/behat"]
+  "config": {
+    "bin-dir": "bin/"
+  }
 }
